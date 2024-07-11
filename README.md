@@ -2,6 +2,7 @@
 
 ### Demonstrates:
 
-- setting initial value fields
+- a single `company` schema type
 - configuring workspaces
 - configuring structure
+- setting initial value templates
