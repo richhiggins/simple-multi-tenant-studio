@@ -28,6 +28,14 @@ export default defineConfig([
             market: 'uk',
           },
         },
+        {
+          id: 'offer-uk',
+          title: 'Offer',
+          schemaType: 'offer',
+          value: {
+            market: 'uk',
+          },
+        },
       ],
     },
   },
@@ -44,6 +52,14 @@ export default defineConfig([
           id: 'company-au',
           title: 'Company',
           schemaType: 'company',
+          value: {
+            market: 'au',
+          },
+        },
+        {
+          id: 'offer-au',
+          title: 'Offer',
+          schemaType: 'offer',
           value: {
             market: 'au',
           },
