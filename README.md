@@ -2,7 +2,8 @@
 
 ### Demonstrates:
 
-- a single `company` schema type
-- configuring workspaces
-- configuring structure
+- simple `company` and `offer` schema types
+- configuring workspaces for markets
 - setting initial value templates
+- filtering structure
+- filtering references
